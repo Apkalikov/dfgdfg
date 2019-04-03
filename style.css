@@ -1,0 +1,22 @@
+ *{
+ 	margin: 0;
+ 	padding: 0;
+ }
+ .container {
+	text-align: center;
+}
+.menu{
+  margin-top: 20px;	
+}
+.menu div {
+	display: inline-block;
+	margin-right: 50px;
+	padding: 10px 20px;
+}
+.content .block h1 {
+	text-align: center;
+}
+.content .block ol, .content .block ul {
+	left: 100px;
+	position: relative;
+} 
